@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="drawable_images">
+        <item>@drawable/circus_icon1</item>
+        <item>@drawable/concert_icon1</item>
+        <item>@drawable/movie_icon1</item>
+        <item>@drawable/theatr_icon1</item>
+    </array>
+</resources>
