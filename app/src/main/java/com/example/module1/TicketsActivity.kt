@@ -52,6 +52,9 @@ class TicketsActivity : AppCompatActivity() {
                 outState.putString("category", binding.tvCategory.text.toString())
             }
 
+
+
+
              fun updateTicketData(ticketData: String, category: String) {
                 binding.tvTicketData.text = ticketData
                 binding.tvTicketData.text = category
